@@ -60,7 +60,9 @@
         <mybatis.spring.boot.version>1.3.0</mybatis.spring.boot.version>
     </properties>
 
-    <!-- 子模块继承之后，提供作用：锁定版本+子module不用写groupId和version  -->
+    <!-- 1、只是声明依赖，并不实际引入，子项目按需声明使用的依赖 -->
+    <!-- 2、子项目可以继承父项目的 version 和 scope -->
+    <!-- 3、子项目若指定了 version 和 scope，以子项目为准 -->
     <dependencyManagement>
         <dependencies>
             <!--spring boot 2.2.2-->
