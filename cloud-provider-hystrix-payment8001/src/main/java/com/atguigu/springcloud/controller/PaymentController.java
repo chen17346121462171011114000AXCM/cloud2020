@@ -13,8 +13,8 @@ import javax.annotation.Resource;
 /**
  * (Payment)表控制层
  *
- * @author makejava
- * @since 2020-03-06 14:22:26
+ * @author lixiaolong
+ * @date 2022/01/13 16:05
  */
 @RestController
 @RequestMapping("payment")

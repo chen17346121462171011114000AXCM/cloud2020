@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 /**
- * @auther zzyy
- * @create 2020-02-25 15:04
+ * @author lixiaolong
+ * @date 2020-02-25 15:04
  */
 @RestController
 public class RateLimitController {

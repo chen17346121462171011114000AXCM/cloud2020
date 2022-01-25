@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 /**
- * @auther zzyy
- * @create 2020-02-20 0:05
+ * @author lixiaolong
+ * @date 2020/12/18 20:17
  */
 @RestController
 @RequestMapping("consumer")

@@ -8,8 +8,8 @@ import java.util.List;
 /**
  * (Payment)表服务接口
  *
- * @author makejava
- * @since 2020-03-06 14:22:26
+ * @author lixiaolong
+ * @date 2022/01/13 16:05
  */
 public interface PaymentService {
 

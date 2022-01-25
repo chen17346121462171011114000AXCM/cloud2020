@@ -14,7 +14,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 @Component
 public class MyLB implements MyLoadBalancer {
     // 原子类
-    private AtomicInteger atomicInteger = new AtomicInteger(0);
+    private final AtomicInteger atomicInteger = new AtomicInteger(0);
 
     /**
      * @author lixiaolong

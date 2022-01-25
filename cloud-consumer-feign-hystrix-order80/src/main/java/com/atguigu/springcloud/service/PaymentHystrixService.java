@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 /**
  * @author lixiaolong
- * @auther zzyy
- * @create 2020-02-19 23:59
+ * @author lixiaolong
+ * @date 2020-02-19 23:59
  */
 @Component
 // FeignFallback 客户端的服务降级 针对 CLOUD-PROVIDER-HYSTRIX-PAYMENT 该服务 提供了一个 对应的服务降级类

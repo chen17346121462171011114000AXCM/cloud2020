@@ -9,8 +9,8 @@ import java.util.List;
 /**
  * (Payment)表数据库访问层
  *
- * @author makejava
- * @since 2020-03-06 14:22:26
+ * @author lixiaolong
+ * @date 2022/01/13 16:05
  */
 @Mapper
 public interface PaymentDao {

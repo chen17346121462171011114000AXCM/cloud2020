@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.UUID;
 
 /**
- * @auther zzyy
- * @create 2020-02-19 14:16
+ * @author lixiaolong
+ * @date 2020-02-19 14:16
  */
 @RestController
 //@Slf4j

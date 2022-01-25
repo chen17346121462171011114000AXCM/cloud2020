@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 /**
- * @auther zzyy
- * @create 2020-02-23 14:13
+ * @author lixiaolong
+ * @date 2020-02-23 14:13
  */
 @RestController
 public class PaymentController {

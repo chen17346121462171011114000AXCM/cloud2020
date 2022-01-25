@@ -8,7 +8,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
  * @author zzyy
- * @create 2019-12-12 17:31
+ * @date 2019-12-12 17:31
  */
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
 @EnableDiscoveryClient

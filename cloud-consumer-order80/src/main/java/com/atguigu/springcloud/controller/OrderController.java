@@ -67,7 +67,7 @@ public class OrderController {
     /**
      * @author lixiaolong
      * @date 2020/12/23 10:27
-     * @description 测试自定义的符在均衡规则
+     * @description 测试自定义的负载均衡规则
      */
     @GetMapping(value = "/payment/lb")
     public String getPaymentLB() {

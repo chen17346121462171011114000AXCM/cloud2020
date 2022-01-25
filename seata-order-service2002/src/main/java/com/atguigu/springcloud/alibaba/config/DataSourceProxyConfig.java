@@ -14,8 +14,8 @@ import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import javax.sql.DataSource;
 
 /**
- * @auther zzyy
- * @create 2020-02-26 16:24
+ * @author lixiaolong
+ * @date 2020-02-26 16:24
  * 使用Seata对数据源进行代理
  */
 @Configuration

@@ -5,8 +5,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @auther zzyy
- * @create 2020-02-20 9:40
+ * @author lixiaolong
+ * @date 2020-02-20 9:40
  */
 @Configuration
 public class FeignConfig {

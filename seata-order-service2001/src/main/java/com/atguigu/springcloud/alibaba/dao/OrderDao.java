@@ -5,8 +5,8 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @auther zzyy
- * @create 2020-02-26 15:17
+ * @author lixiaolong
+ * @date 2020-02-26 15:17
  */
 @Mapper
 public interface OrderDao {
